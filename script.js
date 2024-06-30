@@ -21,7 +21,7 @@ function thankYou(ratingNumber) {
     const thankYouText = `
     <div class="thank-you-container">
           <div class="thank-you-image">
-            <img src="assests/illustration-thank-you.svg" alt="Thank You Image">
+            <img src="illustration-thank-you.svg" alt="Thank You Image">
           </div>
           <div class="rating-output">
             <p>You selected ${ratingNumber} out of 5</p>
